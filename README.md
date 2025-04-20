@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Java-Script, HTML, CSS, React.JS, Node.JS, Bootstrap, Jquery and C#**
 
-- 📫 How to reach me **solerthomasadrian@gmail**
+- 📫 How to reach me **solerthomasadrian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
