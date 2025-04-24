@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A917E1&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 <h1 align="center">Hi 👋, I'm Thomas Adrian</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
@@ -19,13 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-adrian-soler-nilsson&show_icons=true&locale=en" alt="thomas-adrian-soler-nilsson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-adrian-soler-nilsson&" alt="thomas-adrian-soler-nilsson" /></p>
-### 🐍 Contribuições no GitHub
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A917E1&height=120&section=footer"/>
