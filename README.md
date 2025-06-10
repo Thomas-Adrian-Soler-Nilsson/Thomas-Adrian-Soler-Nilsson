@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Adrian</h1>
-<h3 align="center">A passionate fullstrack developer from Brasil</h3>
+<h3 align="center">A passionate full strack developer from Brasil</h3>
 
 - 🌱 I’m currently learning **Python, Java-Script, HTML, CSS, React.JS, Node.JS, Bootstrap, Jquery and C#**
 
