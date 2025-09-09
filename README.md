@@ -63,7 +63,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-adrian-soler-nilsson&show_icons=true&locale=en&layout=compact" alt="thomas-adrian-soler-nilsson" /></p>
+<div style="display : flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson &show_icons=true&theme=radical&hide=prs"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=radical&hide=prs)" />        
+</div>
 
 
 
