@@ -62,11 +62,10 @@
 </p>
 
 <div>
-  <a href="https://github.com/Thomas-Adrian-Soler-Nilsson">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&langs_count=7&theme=dracula" />
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
+<a href="https://github.com/Thomas-Adrian-Soler-Nilsson">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-adrian-soler-nilsson&" alt="thomas-adrian-soler-nilsson" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-Adrian-Soler-Nilsson&" alt="Thomas-Adrian-Soler-Nilsson" /></p>
