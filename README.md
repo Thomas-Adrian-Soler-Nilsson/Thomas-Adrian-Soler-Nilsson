@@ -62,8 +62,6 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas-adrian-soler-nilsson" alt="thomas-adrian-soler-nilsson" /></a> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-adrian-soler-nilsson&show_icons=true&locale=en&layout=compact" alt="thomas-adrian-soler-nilsson" /></p>
 
