@@ -61,7 +61,6 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-adrian-soler-nilsson&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-adrian-soler-nilsson" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas-adrian-soler-nilsson" alt="thomas-adrian-soler-nilsson" /></a> </p>
 
@@ -77,4 +76,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-adrian-soler-nilsson&" alt="thomas-adrian-soler-nilsson" /></p>
 
-![Snake animation](https://github.com/thomas-adrian-soler-nilsson/thomas-adrian-soler-nilsson/blob/output/github-contribution-grid-snake.svg)
