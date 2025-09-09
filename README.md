@@ -72,7 +72,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-adrian-soler-nilsson&show_icons=true&locale=en&layout=compact" alt="thomas-adrian-soler-nilsson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-adrian-soler-nilsson&show_icons=true&locale=en" alt="thomas-adrian-soler-nilsson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-adrian-soler-nilsson&" alt="thomas-adrian-soler-nilsson" /></p>
 
