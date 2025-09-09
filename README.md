@@ -61,11 +61,20 @@
   </a>
 </p>
 
-<div>
-  <a href="https://github.com/Thomas-Adrian-Soler-Nilsson">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-adrian-soler-nilsson&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-adrian-soler-nilsson" /> </p>
 
-![Snake animation](https://github.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/blob/output/github-contribution-grid-snake.svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas-adrian-soler-nilsson" alt="thomas-adrian-soler-nilsson" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-adrian-soler-nilsson&show_icons=true&locale=en&layout=compact" alt="thomas-adrian-soler-nilsson" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-adrian-soler-nilsson&show_icons=true&locale=en" alt="thomas-adrian-soler-nilsson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-adrian-soler-nilsson&" alt="thomas-adrian-soler-nilsson" /></p>
+
+![Snake animation](https://github.com/thomas-adrian-soler-nilsson/thomas-adrian-soler-nilsson/blob/output/github-contribution-grid-snake.svg)
