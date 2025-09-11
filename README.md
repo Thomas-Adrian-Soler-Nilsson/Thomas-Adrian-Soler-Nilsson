@@ -66,10 +66,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=radical&hide=prs"/>        
 </div>
 
+---
+
 <p align="center">
+  <!-- A cobrinha aparece aqui assim que o workflow gerar os arquivos corretamente! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+  <br>
