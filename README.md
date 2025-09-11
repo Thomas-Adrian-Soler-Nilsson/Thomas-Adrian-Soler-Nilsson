@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thomas Adrian</h1>
 <h3 align="center">A passionate full stack developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Python, Java-Script, HTML, CSS, React.JS, Node.JS, Bootstrap, Jquery and C#**
+- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, React.JS, Node.JS, Bootstrap, Jquery and C#**
 
 - 📫 How to reach me **solerthomasadrian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/thomas-adrian" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thomas-adrian" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/thomas-adrian" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: thomas-adrian" height="30" width="40" />
   </a>
 </p>
 
@@ -61,13 +61,15 @@
   </a>
 </p>
 
-<div style="display : flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson &show_icons=true&theme=radical&hide=prs"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=radical&hide=prs)" />        
+<div align="center" style="display: flex; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=radical&hide=prs"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=radical&hide=prs"/>        
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
