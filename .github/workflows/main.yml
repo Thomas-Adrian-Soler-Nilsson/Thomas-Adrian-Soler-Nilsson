@@ -1,36 +1,33 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # roda a cada 12 horas
-  workflow_dispatch:       # permite rodar manualmente
   push:
     branches:
-      - main               # roda quando houver push na branch main
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Thomas-Adrian-Soler-Nilsson
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Adicione seus passos de build/dist aqui
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Configurar usuário do git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Push dist directory to output branch
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${GITHUB_REPOSITORY}.git
+          git fetch origin output || git checkout -b output
+          git add dist/
+          git commit -m "Atualizando dist via GitHub Actions" || echo "Nada para commitar"
+          git push --force origin output
