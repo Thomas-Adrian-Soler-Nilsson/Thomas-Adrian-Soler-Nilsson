@@ -61,13 +61,13 @@
   </a>
 </p>
 
-
-
 <div style="display : flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson &show_icons=true&theme=radical&hide=prs"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=radical&hide=prs)" />        
 </div>
 
-  <a href="https://github.com/Thomas-Adrian-Soler-Nilsson/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/output/github-contribution-grid-snake.svg">
+</picture>
