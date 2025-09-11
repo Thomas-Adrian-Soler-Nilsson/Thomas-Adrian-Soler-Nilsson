@@ -69,4 +69,4 @@
 </div>
 
 
-
+![Snake animation](https://github.com/Thomas-Adrian-Soler-Nilsson/Thomas-Adrian-Soler-Nilsson/blob/output/github-contribution-grid-snake.svg)
