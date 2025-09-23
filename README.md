@@ -59,6 +59,9 @@
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40" />
   </a>
+<a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+  </a>
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
