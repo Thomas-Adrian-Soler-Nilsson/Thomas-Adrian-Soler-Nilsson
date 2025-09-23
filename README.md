@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Adrian</h1>
 <h3 align="center">A passionate full stack developer from Brasil</h3>
 
-- 🌱 I’m currently learning **JavaScript, React.JS, Node.JS, C++ for Arduino and C#**
+- 🌱 I’m currently learning **JavaScript, React.JS, Node.JS, C++ for Arduino, C# and Java**
 
 - 📫 How to reach me **solerthomasadrian@gmail.com**
 
