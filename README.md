@@ -60,6 +60,16 @@
 
 ---
 
+## 🖥️ Editors & IDEs  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devcpp/devcpp-plain.svg" height="50" alt="Dev C++" title="Dev C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse" title="Eclipse IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" height="50" alt="Sublime Text" title="Sublime Text" />
+  
+---
+
 ### 📊 GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats"/>
