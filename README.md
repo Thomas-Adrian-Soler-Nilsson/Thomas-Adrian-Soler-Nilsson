@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="Visual Studio Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="Visual Studio" title="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse" title="Eclipse IDE" />
-  <img src="https://commons.wikimedia.org/wiki/File:Sublime_text.png" height="50" alt="Sublime Text" title="Sublime Text" />
+  <img src="https://skillicons.dev/icons?i=sublimetext" height="50" alt="Sublime Text" title="Sublime Text" />
   
 ---
 
