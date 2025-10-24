@@ -34,11 +34,6 @@
 
 ---
 
-### ⚡ Fun Fact  
-> "Code is like humor — when you have to explain it, it’s bad." 😄
-
----
-
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to connect or check out my projects 👇</i>
 </p>
