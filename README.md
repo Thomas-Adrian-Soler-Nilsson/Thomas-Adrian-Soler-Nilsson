@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently diving deep into **JavaScript, React.js, Node.js, C++ (Arduino), C#, and Java**  
+- 🌱 Currently diving deep into **JavaScript, React.js, Node.js, C++ (Arduino), C#, Java and TypeScript**  
 - 💡 I love creating efficient, scalable and creative digital solutions  
 - ✨ Focused on continuous learning and improving every single day  
 - 📫 Reach me at: **solerthomasadrian@gmail.com**
@@ -29,6 +29,7 @@
 ## 🧠 Programming Languages  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
@@ -66,7 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="Visual Studio" title="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse" title="Eclipse IDE" />
   <img src="https://skillicons.dev/icons?i=sublime" height="50" alt="Sublime Text" title="Sublime Text" />
-  
+</p>
+
 ---
 
 ### 📊 GitHub Stats  
