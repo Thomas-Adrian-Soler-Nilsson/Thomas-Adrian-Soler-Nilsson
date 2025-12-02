@@ -61,7 +61,7 @@
   <!-- Hosting Platforms -->
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" title="Vercel" />
 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/railway.svg" height="50" alt="Railway" title="Railway" />
+  <img src="https://devicons.railway.com/i/railway-dark.svg" height="50" alt="Railway" title="Railway" />
 
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/render.svg" height="50" alt="Render" title="Render" />
 </p>
