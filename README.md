@@ -57,6 +57,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+
+  <!-- Hosting Platforms -->
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=railway" height="50" alt="Railway" title="Railway" />
+  <img src="https://skillicons.dev/icons?i=render" height="50" alt="Render" title="Render" />
 </p>
 
 ---
@@ -70,6 +75,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats  
 <div align="center">
 
