@@ -63,7 +63,6 @@
 
   <img src="https://devicons.railway.com/i/railway-dark.svg" height="50" alt="Railway" title="Railway" />
 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/render.svg" height="50" alt="Render" title="Render" />
 </p>
 
 
