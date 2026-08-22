@@ -76,22 +76,22 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thomas-Adrian-Soler-Nilsson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thomas-Adrian-Soler-Nilsson&theme=tokyonight&no-frame=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Achievements" />
 </p>
 
 ---
