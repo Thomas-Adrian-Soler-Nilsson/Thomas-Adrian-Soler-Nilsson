@@ -3,15 +3,15 @@
 
 ---
 
-### 🚀 About Me  
-- 🌱 Currently diving deep into **JavaScript, React.js, Node.js, C++ (Arduino), C#, Java and TypeScript**  
-- 💡 I love creating efficient, scalable and creative digital solutions  
-- ✨ Focused on continuous learning and improving every single day  
+### 🚀 About Me
+- 🌱 Currently diving deep into **JavaScript, React.js, Node.js, C++ (Arduino), C#, Java and TypeScript**
+- 💡 I love creating efficient, scalable and creative digital solutions
+- ✨ Focused on continuous learning and improving every single day
 - 📫 Reach me at: **solerthomasadrian@gmail.com**
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/thomas-adrian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 Programming Languages  
+## 🧠 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🎨 Markup & Styling  
+## 🎨 Markup & Styling
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚙️ Tools & Frameworks  
+## ⚙️ Tools & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 🖥️ Editors & IDEs  
+## 🖥️ Editors & IDEs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="Visual Studio Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="Visual Studio" title="Visual Studio" />
@@ -74,31 +74,24 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <div align="center">
-
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=tokyonight&hide=prs" 
-    alt="GitHub Stats"
-  />
-
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
-  />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Thomas-Adrian-Soler-Nilsson&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Adrian-Soler-Nilsson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
 
-### 🏆 Achievements  
+### 🔥 GitHub Streak
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Thomas-Adrian-Soler-Nilsson&theme=radical&no-frame=true&no-bg=false&margin-w=4" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://streak-stats.demolab.com?user=Thomas-Adrian-Soler-Nilsson&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thomas-Adrian-Soler-Nilsson&theme=tokyonight&no-frame=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
