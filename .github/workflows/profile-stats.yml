@@ -1,6 +1,13 @@
 name: Update GitHub Profile Stats
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - 'scripts/generate-profile.mjs'
+      - '.github/workflows/profile-stats.yml'
   schedule:
     - cron: '17 0 * * *'
   workflow_dispatch:
